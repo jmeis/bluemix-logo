@@ -1,6 +1,6 @@
 {
   "name": "bluemix-logo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Bluemix logo for the Node CLI.",
   "repository": {
     "type": "git",
