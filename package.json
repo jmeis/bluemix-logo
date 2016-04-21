@@ -1,12 +1,13 @@
 {
 	"name": "bluemix-logo",
-	"version": "1.0.1",
+	"version": "1.0.4",
 	"description": "The Bluemix logo for the Node CLI.",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/jmeis/bluemix-logo.git"
 	},
 	"author": "jmeis",
+	"bin": "cli.js",
 	"license": "Apache-2.0",
 	"bugs": {
 		"url": "https://github.com/jmeis/bluemix-logo/issues"
