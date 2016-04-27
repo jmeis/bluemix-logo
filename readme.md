@@ -1,6 +1,6 @@
 # bluemix-logo
 
-![](bluemix-logo.gif)
+![](readme/bluemix-logo.gif)
 
 ## Usage
 
