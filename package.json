@@ -1,6 +1,6 @@
 {
 	"name": "bluemix-logo",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"description": "The Bluemix logo for your CLI",
 	"repository": {
 		"type": "git",
