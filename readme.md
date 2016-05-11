@@ -1,4 +1,7 @@
 # bluemix-logo
+[![npm version](https://badge.fury.io/js/bluemix-logo.svg)](https://badge.fury.io/js/bluemix-logo)
+[![dependencies](https://david-dm.org/jmeis/bluemix-logo.svg?theme=shields.io)](https://david-dm.org/jmeis/bluemix-logo)
+
 
 ![](readme/bluemix-logo.gif)
 
