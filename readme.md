@@ -4,7 +4,7 @@
 The Bluemix logo for your CLI
 
 [![](https://shields.eu-gb.mybluemix.net)](https://bluemix.net)
-[![](https://shields.eu-gb.mybluemix.net/jmeis/bluemix-logo)](https://bluemix.net)
+[![](https://shields.eu-gb.mybluemix.net/jmeis/bluemix-logo)](https://travis-ci.org/jmeis/bluemix-logo)
 
 ### Table of Contents
 * [CLI](#cli)
