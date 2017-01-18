@@ -1,10 +1,10 @@
-<img src="readme/logo.png" alt="bluemix logo" width="300px"/>
+<img src="readme/logo.png" alt="bluemix logo" width="250px"/>
+
 ## Bluemix Logo
 The Bluemix logo for your CLI
 
-[![npm version](https://badge.fury.io/js/bluemix-logo.svg)](https://badge.fury.io/js/bluemix-logo)
-[![dependencies](https://david-dm.org/jmeis/bluemix-logo.svg?theme=shields.io)](https://david-dm.org/jmeis/bluemix-logo)
-[![Build Status](https://travis-ci.org/jmeis/bluemix-logo.svg?branch=master)](https://travis-ci.org/jmeis/bluemix-logo)
+[![](https://shields.eu-gb.mybluemix.net)](https://bluemix.net)
+[![](https://shields.eu-gb.mybluemix.net/jmeis/bluemix-logo)](https://bluemix.net)
 
 ### Table of Contents
 * [CLI](#cli)
